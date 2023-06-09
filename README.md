@@ -18,6 +18,7 @@ git clone https://github.com/Nhathuyy/API_Hue_Travel
 2. Create a virtual environment:
 
 python3 -m venv venv
+
 source venv/bin/activate
 
 
