@@ -19,12 +19,12 @@ git clone https://github.com/Nhathuyy/API_Hue_Travel
 
 python3 -m venv venv
 
-##macos
+-macos
 
 source venv/bin/activate
---------------------------------
 
-##win 
+
+-win 
 venv\Scripts\activate
 
 
