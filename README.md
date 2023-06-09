@@ -25,6 +25,7 @@ source venv/bin/activate
 
 
 -win 
+
 venv\Scripts\activate
 
 
