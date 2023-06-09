@@ -49,6 +49,7 @@ pip install -r requirements.txt
 
 uvicorn index:app --reload
 ## Description Json
+```json
 {
   "id": "001",
   "name": " Đại Nội",
@@ -56,6 +57,7 @@ uvicorn index:app --reload
 }
 
 ## User Json
+```json
 {
   "name": "Nhat Huy",
   "age": 22,
@@ -79,7 +81,7 @@ uvicorn index:app --reload
   ]
 }
 ##Journey  
-
+```json
 {
   "id": 1,
   "user_id": "6481d5ab80f1f56025f1dc9f",
