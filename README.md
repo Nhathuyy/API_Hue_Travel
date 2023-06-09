@@ -22,6 +22,8 @@ python3 -m venv venv
 macos
 
 source venv/bin/activate
+
+
 win 
 venv\Scripts\activate
 
